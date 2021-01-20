@@ -1,6 +1,3 @@
-#  22-10483
-# Muhammad Hassan Shakoor Rana
-# Submitted on Wed before deadline.
 import matplotlib.pyplot as plt
 from matplotlib import style
 import numpy as np
